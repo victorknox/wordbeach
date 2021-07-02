@@ -8,13 +8,14 @@ cd wordbeachpy
 cd into wordclouden folder
 
 ```
-cd wordcloudte
+cd wordclouden
 ```
 installing libraries
 ```
 pip install requests
 pip install nltk
-pip install advertools
+pip install bs4
+pip install wordcloud
 ```
 run to generate text.txt file containing data (text.txt is already available)
 ```
