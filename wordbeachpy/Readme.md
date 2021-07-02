@@ -1,3 +1,8 @@
+Git clone the repo and cd into wordbeachpy
+```
+cd wordbeachpy
+```
+
 # To generate English wordcloud
 
 cd into wordclouden folder
