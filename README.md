@@ -4,7 +4,7 @@ This Program allows user to generate word clouds for both Hindi and Telugu based
 
 ## How to Use
 
-If you would like to work with python, check [this](https://github.com/victorknox/wordbeach/tree/main/wordbeachpy).
+If you prefer working with python files, check [this](https://github.com/victorknox/wordbeach/tree/main/wordbeachpy).
 
 If you prefer to use jupyter notebook,
 
