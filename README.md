@@ -4,15 +4,15 @@ This Program allows user to generate word clouds for both Hindi and Telugu based
 
 ## How to Use
 
-If you would like to work with python, check [this](https://github.com/victorknox/wordbeach/tree/main/wordbeachpy)
+If you would like to work with python, check [this](https://github.com/victorknox/wordbeach/tree/main/wordbeachpy).
 
-IF you prefer to use jupyter notebook
+IF you prefer to use jupyter notebook,
 
-Open this notebook for [English](https://github.com/victorknox/wordbeach/blob/main/wordcloud.ipynb) and this for [Telugu](https://github.com/victorknox/wordbeach/blob/main/wordcloudtel2.ipynb)
+Open this notebook for [English](https://github.com/victorknox/wordbeach/blob/main/wordcloud.ipynb) and this for [Telugu](https://github.com/victorknox/wordbeach/blob/main/wordcloudtel2.ipynb).
 
-In the Data Creation Module, Change the articles list according to your preference and run the note book
+In the Data Creation Module, Change the articles list according to your preference and run the note book.
 
-If you want to input your own data, save it in a file named "text.txt" and run the note book without running Data creation module 
+If you want to input your own data, save it in a file named "text.txt" and run the note book without running Data creation module. 
 
 
 Example wordclouds Generated: 
