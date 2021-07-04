@@ -52,4 +52,4 @@ python wordcloudtel2.py
 output will be shown in terminal and output.txt
 
 ----------------------
-Note: directly running the notebooks also work
+Note: directly running the notebooks also works
