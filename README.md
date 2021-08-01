@@ -1,6 +1,6 @@
 # WordBeach
 
-This Program allows user to generate word clouds for both Hindi and Telugu based on Their topic preference (wiki articles will be used for this)
+This Program allows user to generate word clouds for both English and Telugu based on Their topic preference (wiki articles will be used for this)
 
 ## How to Use
 
