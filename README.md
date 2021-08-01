@@ -31,4 +31,4 @@ Have fun!
 - Python
 - nltk
 - beautifulsoup
-- matplotlib,wordcloud
+- matplotlib, wordcloud
