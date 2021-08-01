@@ -26,3 +26,9 @@ Telugu
 ![Telugu](https://media.discordapp.net/attachments/795301868392939560/859890408115929088/unknown.png)
 
 Have fun!
+
+## Built with
+- Python
+- nltk
+- beautifulsoup
+- matplotlib,wordcloud
